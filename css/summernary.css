@@ -185,7 +185,7 @@ background-image: url("bg.png");*/
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 200%;
+    font-size: 300%;
     /*font-family: 'Lobster', cursive;*/
     font-family: 'Marck Script', cursive;
     font-weight: bold;
@@ -290,7 +290,7 @@ background-image: url("bg.png");*/
     }
 
     .splash-head {
-        font-size: 250%;
+        font-size: 300%;
     }
 
 
