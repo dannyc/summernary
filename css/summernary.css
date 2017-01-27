@@ -312,3 +312,8 @@ background-image: url("bg.png");*/
         font-size: 500%;
     }
 }
+@media (max-width: 48em) {
+   .splash-head{
+      padding-top: .2em;
+   }
+}
