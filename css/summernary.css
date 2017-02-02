@@ -1,6 +1,9 @@
 	html, body{
 		 height: 100%;
 	}
+	a{
+		color: blue;
+	}
 	header{
 		background-color: #2eb3b1;
 		background-image: url("bg.png");
