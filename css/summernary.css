@@ -5,7 +5,7 @@
 		color: blue;
 	}
 	header{
-		background-color: #2eb3b1;
+		background-color: #000;
 		background-image: url("bg.png");
 		text-align: center;
 		min-height: 65%;
@@ -24,7 +24,7 @@
 		color: white;
 	}
 	h3{
-		color: #2eb3b1;
+		color: #330033;
 	}
 	.big-bold{
 		padding: 15px;
@@ -32,11 +32,11 @@
 		background: white;
 		/*border: 2px solid #777;*/
 		text-decoration: none;
-		color: #2eb3b1;
+		color: #330033;
 		margin: 10px;
 		border-radius: 15px;
 		position: relative;
-    top: 20px;
+		top: 20px;
 		transition: color 3s;
 	}
 	.big-bold:hover{
@@ -61,8 +61,8 @@
 			position:absolute;
 	}
 	.section-header{
-		background: #1a6564;
-    color: #ddd;
+		background: #330033;
+		color: #ddd;
 		text-align: center;
 		padding: 30px 0px;
 	}
