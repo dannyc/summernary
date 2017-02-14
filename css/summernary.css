@@ -62,6 +62,7 @@
 	}
 	.section-header{
 		background: #330033;
+		background-image: url("asfalt-light.png");
 		color: #ddd;
 		text-align: center;
 		padding: 30px 0px;
