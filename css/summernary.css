@@ -76,3 +76,8 @@
 .section-header ul{
 	text-align: left;
 }
+@media (max-width: 550px) {
+	header{
+		min-height: 45%;
+	}
+}
