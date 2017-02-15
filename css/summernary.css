@@ -11,7 +11,7 @@
 		min-height: 65%;
 	}
 	header .main{
-		margin-top: 20%;
+		margin-top: 10%;
 	}
 	header.secondary{
 		min-height: 40%;
@@ -27,8 +27,8 @@
 		color: #330033;
 	}
 	.big-bold{
-		padding: 15px;
-		font-size: 3rem;
+		padding: 10px;
+		font-size: 2rem;
 		background: white;
 		/*border: 2px solid #777;*/
 		text-decoration: none;
@@ -48,17 +48,17 @@
 		margin-top: 35px;
 	}
 	.map-responsive{
-			overflow:hidden;
-			padding-bottom:56.25%;
-			position:relative;
-			height:0;
+		overflow:hidden;
+		padding-bottom:56.25%;
+		position:relative;
+		height:0;
 	}
 	.map-responsive iframe{
-			left:0;
-			top:0;
-			height:100%;
-			width:100%;
-			position:absolute;
+		left:0;
+		top:0;
+		height:100%;
+		width:100%;
+		position:absolute;
 	}
 	.section-header{
 		background: #330033;
