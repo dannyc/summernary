@@ -81,3 +81,11 @@
 		min-height: 45%;
 	}
 }
+@media (max-height: 400px) {
+	header{
+		min-height: 85%;
+	}
+	header .main {
+		margin-top: 1%;
+	}
+}
