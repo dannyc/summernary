@@ -88,4 +88,7 @@
 	header .main {
 		margin-top: 1%;
 	}
+	.big-bold{
+		top: 1px !important;
+	}
 }
