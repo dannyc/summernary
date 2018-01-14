@@ -143,4 +143,5 @@ th, thead {
 .link-divider{
 	text-shadow: 1px 1px #ccc;
 	font-weight: bold;
+	margin: 0px 5px;
 }
