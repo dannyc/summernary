@@ -17,16 +17,17 @@ header{
     display: block;
     text-align: center;
     background: #eee;
-    width: 100px;
+    width: 200px;
     left: 50%;
     position: relative;
-    margin-left: -50px;
-    padding: 10px;
+    margin-left: -100px;
+    padding: 20px;
     box-sizing: border-box;
     border-radius: 5px;
     text-decoration: none;
     color: black;
     border: 2px solid #f7941e;
+    font-size: 1.5rem;
 }
 p{
     text-align: center;
