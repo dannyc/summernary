@@ -6,12 +6,15 @@ body{
 }
 header{
     padding: 30px;
-	padding-bottom: 5px;
+    padding-bottom: 5px;
     text-align: center;
 }
 .logo{
     width: 100%;
     max-width: 800px;
+}
+.center{
+    text-align: center;
 }
 .register{
     display: block;
@@ -148,6 +151,8 @@ th, thead {
 }
 ul{
     list-style: none;
+    text-align: center;
+    font-size: 1.3rem;
 }
 ul li{
     padding-bottom: 10px;
